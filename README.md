@@ -5,4 +5,4 @@ My work combines **human–data interaction, data visualization, data science, a
 
 I mainly work with JavaScript (React) and Python (Flask, Django), using Vega and D3 to build data-driven applications.
 
-[Full publication list → Google Scholar](https://scholar.google.com/)
+[Full publication list → Google Scholar](https://scholar.google.com/citations?user=kiLN6BkAAAAJ&hl=pt-BR)
