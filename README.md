@@ -1,7 +1,7 @@
 # Hi,
 
 I am an **R&D Scientist** and PhD Candidate in Data Visualization at PUC-Rio.  
-My work combines **data visualization and human–computer interaction** to design, develop and evaluate interactive systems that help people make sense of data.  
+My work combines **data visualization and human-computer interaction** to design, develop and evaluate interactive systems that help people make sense of data.  
 
 I mainly work with JavaScript (React) and Python (Flask, Django), using Vega and D3 to build data-driven applications.
 
